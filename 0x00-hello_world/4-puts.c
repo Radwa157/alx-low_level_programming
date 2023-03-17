@@ -1,15 +1,6 @@
-#!/bin/bash
-/*
- * File: 4-puts.c
- * Auth: Brennan D Baraban <375@holbertonschool.com>
- */
-
 #include <stdio.h>
-
 /**
- * main - Prints "Programming is like building a multilingual
- *                puzzle, followed by a new line.
- *
+ * main - A program that prints a line with puts function
  * Return: Always 0.
  */
 int main(void)
