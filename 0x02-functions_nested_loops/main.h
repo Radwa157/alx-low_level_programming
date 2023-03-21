@@ -1,7 +1,7 @@
 
 #ifndef MAIN_H
 #define MAIN_H
- #include <studio.>
+#include <stdio.>
 
 int _putchar (char c);
 
